@@ -40,6 +40,4 @@ com um atraso de ajuste de 10ms.
 um experimento com o código deste exercício utilizando o LED
 RGB – GPIO 12.
 
-Demostração:
-[_
-](https://drive.google.com/file/d/1iUn1vuMX_poKkQptvgAHTSsKn1VP0kHM/view?usp=drive_link)
+[Demostração](https://drive.google.com/file/d/1iUn1vuMX_poKkQptvgAHTSsKn1VP0kHM/view?usp=drive_link)
